@@ -75,11 +75,11 @@ nav .nav-container{
 	width: 70%;
 }
 .hero .author-image{
-	float: left;
+	float: right;
 }
 .hero .author-image img{
-	width: 200px;
-	height: 200px;
+	width: 150px;
+	height: 150px;
 	border-radius: 50%;
 	box-shadow: 3px 5px 20px rgba(0,0,0,.16);
 	pointer-events: none;
@@ -152,7 +152,7 @@ nav .nav-container{
 		  align-items: center;
 	}
 		.hero .author-image{
-		margin-bottom: 20px;
+		margin: 80px;
 	}
 	.main{
 		margin-top: 70px;
