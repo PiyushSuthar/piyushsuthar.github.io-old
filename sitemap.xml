@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -9,23 +10,83 @@
 
 <url>
   <loc>https://piyushsuthar.codes/</loc>
-  <lastmod>2020-04-28T14:28:14+00:00</lastmod>
+  <lastmod>2020-05-23T14:15:49+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://piyushsuthar.codes/contact.html</loc>
-  <lastmod>2020-04-28T14:28:14+00:00</lastmod>
+  <lastmod>2020-05-23T14:15:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://piyushsuthar.codes/portfolio.html</loc>
-  <lastmod>2020-04-28T14:28:14+00:00</lastmod>
+  <lastmod>2020-05-23T14:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://piyushsuthar.codes/livestats/</loc>
+  <lastmod>2020-05-13T06:48:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://piyushsuthar.codes/currency-convertor/</loc>
+  <lastmod>2020-05-03T14:46:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://piyushsuthar.codes/toolzar/</loc>
+  <lastmod>2020-05-23T14:13:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://piyushsuthar.codes/illustrations/</loc>
+  <lastmod>2020-04-14T12:09:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://piyushsuthar.codes/tools.html</loc>
-  <lastmod>2020-04-28T14:28:14+00:00</lastmod>
+  <lastmod>2020-05-23T14:15:49+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://piyushsuthar.codes/livestats/request.html</loc>
+  <lastmod>2020-05-13T06:48:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://piyushsuthar.codes/livestats/youtube.html</loc>
+  <lastmod>2020-05-13T06:48:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://piyushsuthar.codes/livestats/twitter.html</loc>
+  <lastmod>2020-05-13T06:48:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://piyushsuthar.codes/livestats/instagram.html</loc>
+  <lastmod>2020-05-13T06:48:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://piyushsuthar.codes/livestats/coronavirus.html</loc>
+  <lastmod>2020-05-13T06:48:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://piyushsuthar.codes/toolzar/instagram-image.html</loc>
+  <lastmod>2020-05-23T14:13:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://piyushsuthar.codes/toolzar/instagram-video.html</loc>
+  <lastmod>2020-05-23T14:13:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://piyushsuthar.codes/toolzar/gdrive.html</loc>
+  <lastmod>2020-05-23T14:13:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://piyushsuthar.codes/Go/</loc>
@@ -39,17 +100,12 @@
 </url>
 <url>
   <loc>https://piyushsuthar.codes/igdownloader/</loc>
-  <lastmod>2020-04-27T14:51:08+00:00</lastmod>
+  <lastmod>2020-05-02T12:52:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://piyushsuthar.codes/gdrivelink/</loc>
-  <lastmod>2020-04-24T09:52:55+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://piyushsuthar.codes/currency-convertor/</loc>
-  <lastmod>2020-04-23T10:44:22+00:00</lastmod>
+  <lastmod>2020-05-08T07:19:22+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -68,39 +124,9 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://piyushsuthar.codes/illustrations/</loc>
-  <lastmod>2020-04-14T12:09:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://piyushsuthar.codes/livestats/</loc>
-  <lastmod>2020-04-28T07:30:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://piyushsuthar.codes/livestats/youtube.html</loc>
-  <lastmod>2020-04-28T07:30:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://piyushsuthar.codes/livestats/twitter.html</loc>
-  <lastmod>2020-04-28T07:30:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://piyushsuthar.codes/livestats/instagram.html</loc>
-  <lastmod>2020-04-28T07:30:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://piyushsuthar.codes/livestats/coronavirus.html</loc>
-  <lastmod>2020-04-28T07:30:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://piyushsuthar.codes/livestats/request.html</loc>
-  <lastmod>2020-04-28T07:30:01+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://piyushsuthar.codes/toolzar/index.html</loc>
+  <lastmod>2020-05-23T14:13:59+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://piyushsuthar.codes/CoronaStats/india.html</loc>
